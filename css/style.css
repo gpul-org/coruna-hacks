@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-testimonials,
 #fh5co-pricing,
 #fh5co-press {
-  padding: 7em 0 0 0;
+  padding: 3em 0 0 0;
 }
 @media screen and (max-width: 480px) {
   #fh5co-our-services,
@@ -530,7 +530,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-features {
-  padding: 7em 0;
+  padding: 3em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-features {
